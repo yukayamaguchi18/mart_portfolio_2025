@@ -1,21 +1,21 @@
-商品ID,商品名,商品ライン,商品カテゴリ,価格
-P0001,フローラル商品1,フローラル,トライアル,4515
-P0002,ナチュラル商品2,ナチュラル,トライアル,4696
-P0003,ナチュラル商品3,ナチュラル,トライアル,614
-P0004,ピュア商品4,ピュア,本品,559
-P0005,フローラル商品5,フローラル,トライアル,1067
-P0006,ピュア商品6,ピュア,本品,1813
-P0007,ピュア商品7,ピュア,トライアル,3734
-P0008,ナチュラル商品8,ナチュラル,本品,827
-P0009,ピュア商品9,ピュア,トライアル,1560
-P0010,フローラル商品10,フローラル,トライアル,4618
-P0011,ナチュラル商品11,ナチュラル,トライアル,2986
-P0012,ピュア商品12,ピュア,トライアル,2773
-P0013,ピュア商品13,ピュア,本品,3082
-P0014,ピュア商品14,ピュア,トライアル,922
-P0015,フローラル商品15,フローラル,トライアル,1740
-P0016,ピュア商品16,ピュア,トライアル,1844
-P0017,ナチュラル商品17,ナチュラル,トライアル,4828
-P0018,ナチュラル商品18,ナチュラル,本品,1701
-P0019,フローラル商品19,フローラル,本品,3270
-P0020,ナチュラル商品20,ナチュラル,本品,3950
+product_id,product_name,product_line,product_category,price
+P0001,Natural Product 1,Natural,Regular,1164
+P0002,Floral Product 2,Floral,Regular,1799
+P0003,Pure Product 3,Pure,Trial,1542
+P0004,Pure Product 4,Pure,Trial,1241
+P0005,Natural Product 5,Natural,Regular,4872
+P0006,Floral Product 6,Floral,Regular,1904
+P0007,Natural Product 7,Natural,Regular,4121
+P0008,Natural Product 8,Natural,Trial,4794
+P0009,Floral Product 9,Floral,Trial,4514
+P0010,Floral Product 10,Floral,Trial,3330
+P0011,Pure Product 11,Pure,Regular,3718
+P0012,Floral Product 12,Floral,Regular,2645
+P0013,Natural Product 13,Natural,Trial,2402
+P0014,Natural Product 14,Natural,Trial,1022
+P0015,Pure Product 15,Pure,Trial,717
+P0016,Natural Product 16,Natural,Trial,2247
+P0017,Floral Product 17,Floral,Trial,3693
+P0018,Floral Product 18,Floral,Trial,826
+P0019,Natural Product 19,Natural,Regular,3420
+P0020,Floral Product 20,Floral,Trial,3291

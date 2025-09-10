@@ -1,11 +1,11 @@
-キャンペーンID,キャンペーン名,キャンペーンカテゴリ
-CP001,キャンペーン1,トライアル
-CP002,キャンペーン2,トライアル
-CP003,キャンペーン3,トライアル
-CP004,キャンペーン4,トライアル
-CP005,キャンペーン5,セール
-CP006,キャンペーン6,トライアル
-CP007,キャンペーン7,トライアル
-CP008,キャンペーン8,トライアル
-CP009,キャンペーン9,トライアル
-CP010,キャンペーン10,トライアル
+campaign_id,campaign_name,campaign_category
+CP001,Campaign 1,Sale
+CP002,Campaign 2,Join
+CP003,Campaign 3,Join
+CP004,Campaign 4,Trial
+CP005,Campaign 5,Sale
+CP006,Campaign 6,Join
+CP007,Campaign 7,Join
+CP008,Campaign 8,Trial
+CP009,Campaign 9,Sale
+CP010,Campaign 10,Join

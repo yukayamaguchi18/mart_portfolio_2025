@@ -1,11 +1,11 @@
-広告ID,広告名,広告カテゴリ
-AD001,広告1,リスティング
-AD002,広告2,SNS
-AD003,広告3,オフライン
-AD004,広告4,オフライン
-AD005,広告5,リスティング
-AD006,広告6,SNS
-AD007,広告7,リスティング
-AD008,広告8,オフライン
-AD009,広告9,SNS
-AD010,広告10,リスティング
+ad_id,ad_name,ad_category
+AD001,Ad 1,Offline
+AD002,Ad 2,Listing
+AD003,Ad 3,SNS
+AD004,Ad 4,SNS
+AD005,Ad 5,Listing
+AD006,Ad 6,SNS
+AD007,Ad 7,Listing
+AD008,Ad 8,Offline
+AD009,Ad 9,Listing
+AD010,Ad 10,Offline
