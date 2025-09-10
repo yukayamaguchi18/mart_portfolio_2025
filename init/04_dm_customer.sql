@@ -2,13 +2,13 @@ create table dm_customer as
 with age_calc as (
     select
         customer_id,
-        extract(year from age(current_date, birthday))::int as age
+        extract(year from age(current_date, birth_date))::int as age
     from customer
 ),
 sub_count as (
     select customer_id, count(distinct subscription_id) as subscription_count
     from subscription
-    where subscription_status = '有効'
+    where status = 'Active'
     group by customer_id
 ),
 f1 as (
@@ -59,7 +59,7 @@ select
     f2.f2_shipment_id,
     adf1.f1_tracking_id,
     adf2.f2_tracking_id,
-    extract(day from current_date - r.last_shipment_date)::int as r,
+    (current_date - r.last_shipment_date)::int as r,
     r.f,
     r.m,
     r.m_this_year,

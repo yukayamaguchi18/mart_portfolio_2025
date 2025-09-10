@@ -1,11 +1,11 @@
 campaign_id,campaign_name,campaign_category
 CP001,Campaign 1,Sale
-CP002,Campaign 2,Join
-CP003,Campaign 3,Join
-CP004,Campaign 4,Trial
+CP002,Campaign 2,Trial
+CP003,Campaign 3,Trial
+CP004,Campaign 4,Join
 CP005,Campaign 5,Sale
-CP006,Campaign 6,Join
-CP007,Campaign 7,Join
+CP006,Campaign 6,Sale
+CP007,Campaign 7,Trial
 CP008,Campaign 8,Trial
-CP009,Campaign 9,Sale
+CP009,Campaign 9,Trial
 CP010,Campaign 10,Join
