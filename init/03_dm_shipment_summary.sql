@@ -1,6 +1,7 @@
 create table dm_shipment_summary as
 select
     sh.shipment_id,
+    sh.order_id,
     sh.customer_id,
     sh.shipment_date,
     count(*) over(

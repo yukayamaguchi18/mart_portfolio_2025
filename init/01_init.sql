@@ -91,6 +91,7 @@ COPY order_detail FROM '/data/order_detail.csv' WITH (FORMAT csv, HEADER true);
 -- Shipment Header
 CREATE TABLE shipment_header (
     shipment_id TEXT PRIMARY KEY,
+    order_id TEXT,
     customer_id TEXT,
     shipment_date DATE,
     status TEXT,
