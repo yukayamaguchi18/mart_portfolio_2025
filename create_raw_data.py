@@ -168,6 +168,7 @@ for i, row in df_orders.iterrows():
     ship_date = fake.date_between(start_date=row['order_date'], end_date='today')
     shipments.append({
         'shipment_id': f"S{i+1:04d}",
+        'order_id': row['order_id'],
         'customer_id': row['customer_id'],
         'shipment_date': ship_date,
         'status': random.choice(['Shipped','Cancelled','Pending']),
